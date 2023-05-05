@@ -119,5 +119,10 @@ img.footer_mini_logo:hover {
     filter: drop-shadow(0 12px 12px #ee7d7936);
 }
 
+a.deal_link:hover {
+    color: rgb(247, 247, 247);
+    background: rgb(0, 121, 255);
+}
+
 
 /* 页脚END */
